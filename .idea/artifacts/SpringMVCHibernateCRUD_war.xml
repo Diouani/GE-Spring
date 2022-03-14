@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVCHibernateCRUD:war">
+    <output-path>$PROJECT_DIR$/SpringMVCHibernateCRUD/SpringMVCHibernateCRUD/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringMVCHibernateCRUD</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringMVCHibernateCRUD.war">
+      <element id="artifact" artifact-name="SpringMVCHibernateCRUD:war exploded" />
+    </root>
+  </artifact>
+</component>
